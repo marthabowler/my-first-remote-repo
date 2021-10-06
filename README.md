@@ -8,3 +8,5 @@ But you'll be able to read this on GitHub when we put it onto a GitHub remote!
 
 Hello !
 WOW
+
+These are changes I want in my feature branch
